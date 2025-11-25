@@ -1,0 +1,255 @@
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg" width="1920" height="1920" shape-rendering="geometricPrecision">
+    <defs>
+        <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+            <stop offset="0%" style="stop-color: #5EFCE8; stop-opacity:1"/>
+            <stop offset="100%" style="stop-color: #736EFE; stop-opacity:1"/>
+        </linearGradient>
+        <mask id="mask">
+            <rect width="1920" height="1920" fill="black"/>
+            <text x="960" y="960" text-anchor="middle" dominant-baseline="central" font-family="Arial" font-size="120"
+                  fill="white">Mute
+            </text>
+            <circle cx="960" cy="960" r="190" fill="none" stroke="white" stroke-width="6"/>
+            <circle cx="960" cy="960" r="204" fill="none" stroke="white" stroke-width="10"/>
+            <polyline points="836,794 960,545 1084,794" fill="none" stroke="white" stroke-width="10"
+                      transform="rotate(0,960 960)"/>
+            <polyline points="836,794 960,545 1084,794" fill="none" stroke="white" stroke-width="10"
+                      transform="rotate(36,960 960)"/>
+            <polyline points="836,794 960,545 1084,794" fill="none" stroke="white" stroke-width="10"
+                      transform="rotate(72,960 960)"/>
+            <polyline points="836,794 960,545 1084,794" fill="none" stroke="white" stroke-width="10"
+                      transform="rotate(108,960 960)"/>
+            <polyline points="836,794 960,545 1084,794" fill="none" stroke="white" stroke-width="10"
+                      transform="rotate(144,960 960)"/>
+            <polyline points="836,794 960,545 1084,794" fill="none" stroke="white" stroke-width="10"
+                      transform="rotate(180,960 960)"/>
+            <polyline points="836,794 960,545 1084,794" fill="none" stroke="white" stroke-width="10"
+                      transform="rotate(216,960 960)"/>
+            <polyline points="836,794 960,545 1084,794" fill="none" stroke="white" stroke-width="10"
+                      transform="rotate(252,960 960)"/>
+            <polyline points="836,794 960,545 1084,794" fill="none" stroke="white" stroke-width="10"
+                      transform="rotate(288,960 960)"/>
+            <polyline points="836,794 960,545 1084,794" fill="none" stroke="white" stroke-width="10"
+                      transform="rotate(324,960 960)"/>
+            <circle cx="960" cy="960" r="422" fill="none" stroke="white" stroke-width="10"/>
+            <polyline points="960,540 960,490" fill="none" stroke="white" stroke-width="6"
+                      transform="rotate(0,960 960)"/>
+            <polyline points="960,540 960,490" fill="none" stroke="white" stroke-width="6"
+                      transform="rotate(9,960 960)"/>
+            <polyline points="960,540 960,490" fill="none" stroke="white" stroke-width="6"
+                      transform="rotate(18,960 960)"/>
+            <polyline points="960,540 960,490" fill="none" stroke="white" stroke-width="6"
+                      transform="rotate(27,960 960)"/>
+            <polyline points="960,540 960,490" fill="none" stroke="white" stroke-width="6"
+                      transform="rotate(36,960 960)"/>
+            <polyline points="960,540 960,490" fill="none" stroke="white" stroke-width="6"
+                      transform="rotate(45,960 960)"/>
+            <polyline points="960,540 960,490" fill="none" stroke="white" stroke-width="6"
+                      transform="rotate(54,960 960)"/>
+            <polyline points="960,540 960,490" fill="none" stroke="white" stroke-width="6"
+                      transform="rotate(63,960 960)"/>
+            <polyline points="960,540 960,490" fill="none" stroke="white" stroke-width="6"
+                      transform="rotate(72,960 960)"/>
+            <polyline points="960,540 960,490" fill="none" stroke="white" stroke-width="6"
+                      transform="rotate(81,960 960)"/>
+            <polyline points="960,540 960,490" fill="none" stroke="white" stroke-width="6"
+                      transform="rotate(90,960 960)"/>
+            <polyline points="960,540 960,490" fill="none" stroke="white" stroke-width="6"
+                      transform="rotate(99,960 960)"/>
+            <polyline points="960,540 960,490" fill="none" stroke="white" stroke-width="6"
+                      transform="rotate(108,960 960)"/>
+            <polyline points="960,540 960,490" fill="none" stroke="white" stroke-width="6"
+                      transform="rotate(117,960 960)"/>
+            <polyline points="960,540 960,490" fill="none" stroke="white" stroke-width="6"
+                      transform="rotate(126,960 960)"/>
+            <polyline points="960,540 960,490" fill="none" stroke="white" stroke-width="6"
+                      transform="rotate(135,960 960)"/>
+            <polyline points="960,540 960,490" fill="none" stroke="white" stroke-width="6"
+                      transform="rotate(144,960 960)"/>
+            <polyline points="960,540 960,490" fill="none" stroke="white" stroke-width="6"
+                      transform="rotate(153,960 960)"/>
+            <polyline points="960,540 960,490" fill="none" stroke="white" stroke-width="6"
+                      transform="rotate(162,960 960)"/>
+            <polyline points="960,540 960,490" fill="none" stroke="white" stroke-width="6"
+                      transform="rotate(171,960 960)"/>
+            <polyline points="960,540 960,490" fill="none" stroke="white" stroke-width="6"
+                      transform="rotate(180,960 960)"/>
+            <polyline points="960,540 960,490" fill="none" stroke="white" stroke-width="6"
+                      transform="rotate(189,960 960)"/>
+            <polyline points="960,540 960,490" fill="none" stroke="white" stroke-width="6"
+                      transform="rotate(198,960 960)"/>
+            <polyline points="960,540 960,490" fill="none" stroke="white" stroke-width="6"
+                      transform="rotate(207,960 960)"/>
+            <polyline points="960,540 960,490" fill="none" stroke="white" stroke-width="6"
+                      transform="rotate(216,960 960)"/>
+            <polyline points="960,540 960,490" fill="none" stroke="white" stroke-width="6"
+                      transform="rotate(225,960 960)"/>
+            <polyline points="960,540 960,490" fill="none" stroke="white" stroke-width="6"
+                      transform="rotate(234,960 960)"/>
+            <polyline points="960,540 960,490" fill="none" stroke="white" stroke-width="6"
+                      transform="rotate(243,960 960)"/>
+            <polyline points="960,540 960,490" fill="none" stroke="white" stroke-width="6"
+                      transform="rotate(252,960 960)"/>
+            <polyline points="960,540 960,490" fill="none" stroke="white" stroke-width="6"
+                      transform="rotate(261,960 960)"/>
+            <polyline points="960,540 960,490" fill="none" stroke="white" stroke-width="6"
+                      transform="rotate(270,960 960)"/>
+            <polyline points="960,540 960,490" fill="none" stroke="white" stroke-width="6"
+                      transform="rotate(279,960 960)"/>
+            <polyline points="960,540 960,490" fill="none" stroke="white" stroke-width="6"
+                      transform="rotate(288,960 960)"/>
+            <polyline points="960,540 960,490" fill="none" stroke="white" stroke-width="6"
+                      transform="rotate(297,960 960)"/>
+            <polyline points="960,540 960,490" fill="none" stroke="white" stroke-width="6"
+                      transform="rotate(306,960 960)"/>
+            <polyline points="960,540 960,490" fill="none" stroke="white" stroke-width="6"
+                      transform="rotate(315,960 960)"/>
+            <polyline points="960,540 960,490" fill="none" stroke="white" stroke-width="6"
+                      transform="rotate(324,960 960)"/>
+            <polyline points="960,540 960,490" fill="none" stroke="white" stroke-width="6"
+                      transform="rotate(333,960 960)"/>
+            <polyline points="960,540 960,490" fill="none" stroke="white" stroke-width="6"
+                      transform="rotate(342,960 960)"/>
+            <polyline points="960,540 960,490" fill="none" stroke="white" stroke-width="6"
+                      transform="rotate(351,960 960)"/>
+            <circle cx="960" cy="960" r="470" fill="none" stroke="white" stroke-width="10"/>
+            <polygon points="286,960 960,286 1634,960 960,1634" fill="none" stroke="white" stroke-width="10"
+                     transform="rotate(0,960 960)"/>
+            <polygon points="286,960 960,286 1634,960 960,1634" fill="none" stroke="white" stroke-width="10"
+                     transform="rotate(30,960 960)"/>
+            <polygon points="286,960 960,286 1634,960 960,1634" fill="none" stroke="white" stroke-width="10"
+                     transform="rotate(60,960 960)"/>
+            <polygon points="256,960 960,256 1664,960 960,1664" fill="none" stroke="white" stroke-width="10"
+                     stroke-linejoin="round" transform="rotate(0,960 960)"/>
+            <polygon points="256,960 960,256 1664,960 960,1664" fill="none" stroke="white" stroke-width="10"
+                     stroke-linejoin="round" transform="rotate(30,960 960)"/>
+            <polygon points="256,960 960,256 1664,960 960,1664" fill="none" stroke="white" stroke-width="10"
+                     stroke-linejoin="round" transform="rotate(60,960 960)"/>
+            <circle cx="960" cy="960" r="712" fill="none" stroke="white" stroke-width="8"/>
+            <polyline points="960,198 960,250" fill="none" stroke="white" stroke-width="12"
+                      transform="rotate(0,960 960)"/>
+            <polyline points="960,198 960,250" fill="none" stroke="white" stroke-width="12"
+                      transform="rotate(6,960 960)"/>
+            <polyline points="960,198 960,250" fill="none" stroke="white" stroke-width="12"
+                      transform="rotate(12,960 960)"/>
+            <polyline points="960,198 960,250" fill="none" stroke="white" stroke-width="12"
+                      transform="rotate(18,960 960)"/>
+            <polyline points="960,198 960,250" fill="none" stroke="white" stroke-width="12"
+                      transform="rotate(24,960 960)"/>
+            <polyline points="960,198 960,250" fill="none" stroke="white" stroke-width="12"
+                      transform="rotate(30,960 960)"/>
+            <polyline points="960,198 960,250" fill="none" stroke="white" stroke-width="12"
+                      transform="rotate(36,960 960)"/>
+            <polyline points="960,198 960,250" fill="none" stroke="white" stroke-width="12"
+                      transform="rotate(42,960 960)"/>
+            <polyline points="960,198 960,250" fill="none" stroke="white" stroke-width="12"
+                      transform="rotate(48,960 960)"/>
+            <polyline points="960,198 960,250" fill="none" stroke="white" stroke-width="12"
+                      transform="rotate(54,960 960)"/>
+            <polyline points="960,198 960,250" fill="none" stroke="white" stroke-width="12"
+                      transform="rotate(60,960 960)"/>
+            <polyline points="960,198 960,250" fill="none" stroke="white" stroke-width="12"
+                      transform="rotate(66,960 960)"/>
+            <polyline points="960,198 960,250" fill="none" stroke="white" stroke-width="12"
+                      transform="rotate(72,960 960)"/>
+            <polyline points="960,198 960,250" fill="none" stroke="white" stroke-width="12"
+                      transform="rotate(78,960 960)"/>
+            <polyline points="960,198 960,250" fill="none" stroke="white" stroke-width="12"
+                      transform="rotate(84,960 960)"/>
+            <polyline points="960,198 960,250" fill="none" stroke="white" stroke-width="12"
+                      transform="rotate(90,960 960)"/>
+            <polyline points="960,198 960,250" fill="none" stroke="white" stroke-width="12"
+                      transform="rotate(96,960 960)"/>
+            <polyline points="960,198 960,250" fill="none" stroke="white" stroke-width="12"
+                      transform="rotate(102,960 960)"/>
+            <polyline points="960,198 960,250" fill="none" stroke="white" stroke-width="12"
+                      transform="rotate(108,960 960)"/>
+            <polyline points="960,198 960,250" fill="none" stroke="white" stroke-width="12"
+                      transform="rotate(114,960 960)"/>
+            <polyline points="960,198 960,250" fill="none" stroke="white" stroke-width="12"
+                      transform="rotate(120,960 960)"/>
+            <polyline points="960,198 960,250" fill="none" stroke="white" stroke-width="12"
+                      transform="rotate(126,960 960)"/>
+            <polyline points="960,198 960,250" fill="none" stroke="white" stroke-width="12"
+                      transform="rotate(132,960 960)"/>
+            <polyline points="960,198 960,250" fill="none" stroke="white" stroke-width="12"
+                      transform="rotate(138,960 960)"/>
+            <polyline points="960,198 960,250" fill="none" stroke="white" stroke-width="12"
+                      transform="rotate(144,960 960)"/>
+            <polyline points="960,198 960,250" fill="none" stroke="white" stroke-width="12"
+                      transform="rotate(150,960 960)"/>
+            <polyline points="960,198 960,250" fill="none" stroke="white" stroke-width="12"
+                      transform="rotate(156,960 960)"/>
+            <polyline points="960,198 960,250" fill="none" stroke="white" stroke-width="12"
+                      transform="rotate(162,960 960)"/>
+            <polyline points="960,198 960,250" fill="none" stroke="white" stroke-width="12"
+                      transform="rotate(168,960 960)"/>
+            <polyline points="960,198 960,250" fill="none" stroke="white" stroke-width="12"
+                      transform="rotate(174,960 960)"/>
+            <polyline points="960,198 960,250" fill="none" stroke="white" stroke-width="12"
+                      transform="rotate(180,960 960)"/>
+            <polyline points="960,198 960,250" fill="none" stroke="white" stroke-width="12"
+                      transform="rotate(186,960 960)"/>
+            <polyline points="960,198 960,250" fill="none" stroke="white" stroke-width="12"
+                      transform="rotate(192,960 960)"/>
+            <polyline points="960,198 960,250" fill="none" stroke="white" stroke-width="12"
+                      transform="rotate(198,960 960)"/>
+            <polyline points="960,198 960,250" fill="none" stroke="white" stroke-width="12"
+                      transform="rotate(204,960 960)"/>
+            <polyline points="960,198 960,250" fill="none" stroke="white" stroke-width="12"
+                      transform="rotate(210,960 960)"/>
+            <polyline points="960,198 960,250" fill="none" stroke="white" stroke-width="12"
+                      transform="rotate(216,960 960)"/>
+            <polyline points="960,198 960,250" fill="none" stroke="white" stroke-width="12"
+                      transform="rotate(222,960 960)"/>
+            <polyline points="960,198 960,250" fill="none" stroke="white" stroke-width="12"
+                      transform="rotate(228,960 960)"/>
+            <polyline points="960,198 960,250" fill="none" stroke="white" stroke-width="12"
+                      transform="rotate(234,960 960)"/>
+            <polyline points="960,198 960,250" fill="none" stroke="white" stroke-width="12"
+                      transform="rotate(240,960 960)"/>
+            <polyline points="960,198 960,250" fill="none" stroke="white" stroke-width="12"
+                      transform="rotate(246,960 960)"/>
+            <polyline points="960,198 960,250" fill="none" stroke="white" stroke-width="12"
+                      transform="rotate(252,960 960)"/>
+            <polyline points="960,198 960,250" fill="none" stroke="white" stroke-width="12"
+                      transform="rotate(258,960 960)"/>
+            <polyline points="960,198 960,250" fill="none" stroke="white" stroke-width="12"
+                      transform="rotate(264,960 960)"/>
+            <polyline points="960,198 960,250" fill="none" stroke="white" stroke-width="12"
+                      transform="rotate(270,960 960)"/>
+            <polyline points="960,198 960,250" fill="none" stroke="white" stroke-width="12"
+                      transform="rotate(276,960 960)"/>
+            <polyline points="960,198 960,250" fill="none" stroke="white" stroke-width="12"
+                      transform="rotate(282,960 960)"/>
+            <polyline points="960,198 960,250" fill="none" stroke="white" stroke-width="12"
+                      transform="rotate(288,960 960)"/>
+            <polyline points="960,198 960,250" fill="none" stroke="white" stroke-width="12"
+                      transform="rotate(294,960 960)"/>
+            <polyline points="960,198 960,250" fill="none" stroke="white" stroke-width="12"
+                      transform="rotate(300,960 960)"/>
+            <polyline points="960,198 960,250" fill="none" stroke="white" stroke-width="12"
+                      transform="rotate(306,960 960)"/>
+            <polyline points="960,198 960,250" fill="none" stroke="white" stroke-width="12"
+                      transform="rotate(312,960 960)"/>
+            <polyline points="960,198 960,250" fill="none" stroke="white" stroke-width="12"
+                      transform="rotate(318,960 960)"/>
+            <polyline points="960,198 960,250" fill="none" stroke="white" stroke-width="12"
+                      transform="rotate(324,960 960)"/>
+            <polyline points="960,198 960,250" fill="none" stroke="white" stroke-width="12"
+                      transform="rotate(330,960 960)"/>
+            <polyline points="960,198 960,250" fill="none" stroke="white" stroke-width="12"
+                      transform="rotate(336,960 960)"/>
+            <polyline points="960,198 960,250" fill="none" stroke="white" stroke-width="12"
+                      transform="rotate(342,960 960)"/>
+            <polyline points="960,198 960,250" fill="none" stroke="white" stroke-width="12"
+                      transform="rotate(348,960 960)"/>
+            <polyline points="960,198 960,250" fill="none" stroke="white" stroke-width="12"
+                      transform="rotate(354,960 960)"/>
+            <circle cx="960" cy="960" r="766" fill="none" stroke="white" stroke-width="12"/>
+            <circle cx="960" cy="960" r="814" fill="none" stroke="white" stroke-width="14"/>
+            <circle cx="960" cy="960" r="842" fill="none" stroke="white" stroke-width="6"/>
+        </mask>
+    </defs>
+    <rect x="0" y="0" width="1920" height="1920" fill="url(#gradient)" mask="url(#mask)"/>
+</svg>

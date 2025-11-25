@@ -1,0 +1,41 @@
+:root {
+  --vp-code-block-bg: var(--tk-fill-color-light);
+}
+
+.vp-doc h1 {
+  display: none;
+}
+
+.vp-doc h1 + h2, .vp-doc h2:first-child {
+  margin-top: 0;
+  border-top: none;
+  padding-top: 0;
+}
+
+html[code-block=tk] .tk-postItem__info__left__excerpt div[class*=language-] span.lang, html[code-block=tk] .vp-doc :not(.tk-vp-code) > div[class*=language-] span.lang {
+  font-size: 15px;
+}
+
+.VPSidebar .nav .VPSidebarItem.level-0 > .items {
+  padding-left: 0;
+}
+
+.VPSidebar .nav .item {
+  display: flex;
+  align-items: center;
+  margin-top: 2px;
+}
+
+.VPSidebar .nav .item h2.text {
+  font-size: 15px;
+  line-height: 26px;
+}
+
+.VPSidebar .nav .item p.text {
+  font-size: 14px;
+  line-height: 24px;
+}
+
+.VPSidebar .VPSidebarItem.level-0 {
+  padding-bottom: 12px;
+}
